@@ -1,1 +1,2 @@
 nihao
+git init
